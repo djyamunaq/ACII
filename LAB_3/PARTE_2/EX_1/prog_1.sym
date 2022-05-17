@@ -1,0 +1,24 @@
+GAS LISTING prog_1.s 			page 1
+
+
+DEFINED SYMBOLS
+            prog_1.s:3      *ABS*:00000000bf880000 SFR_BASE_HI
+            prog_1.s:4      *ABS*:0000000000006100 TRISE
+            prog_1.s:5      *ABS*:0000000000006110 PORTE
+            prog_1.s:6      *ABS*:0000000000006120 LATE
+            prog_1.s:7      *ABS*:0000000000006040 TRISB
+            prog_1.s:8      *ABS*:0000000000006050 PORTB
+            prog_1.s:9      *ABS*:0000000000006060 LATB
+            prog_1.s:10     *ABS*:00000000000060c0 TRISD
+            prog_1.s:11     *ABS*:00000000000060d0 PORTD
+            prog_1.s:12     *ABS*:00000000000060e0 LATD
+            prog_1.s:13     *ABS*:0000000000004e20 K
+            prog_1.s:14     *ABS*:000000000000000b READ_CORE_TIMER
+            prog_1.s:15     *ABS*:000000000000000c RESET_CORE_TIMER
+            prog_1.s:24     .text:0000000000000000 main
+            prog_1.s:45     .text:0000000000000038 while
+            prog_1.s:99     .text:00000000000000d8 delay
+            prog_1.s:105    .text:00000000000000e8 delay_While1
+            prog_1.s:111    .text:0000000000000104 end_delay_While1
+
+NO UNDEFINED SYMBOLS

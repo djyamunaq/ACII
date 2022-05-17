@@ -1,0 +1,4 @@
+DEPOIS DE LAB3/PART1/EX5.B
+
+- Ligue a ponta do osciloscópio no porto RD0 (ponto de teste OC1), e meça o tempo a 1 e
+o tempo a 0 do sinal de saída gerado pelo programa.

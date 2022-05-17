@@ -1,0 +1,3 @@
+DEPOIS DE LAB3/PART1/EX5.B
+
+- Altere o valor do atraso para 10ms e repita a medição dos tempos com o osciloscópio.

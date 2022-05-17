@@ -1,0 +1,15 @@
+GAS LISTING prog_4.s 			page 1
+
+
+DEFINED SYMBOLS
+            prog_4.s:1      *ABS*:00000000bf880000 SFR_BASE_HI
+            prog_4.s:2      *ABS*:0000000000006100 TRISE
+            prog_4.s:3      *ABS*:0000000000006110 PORTE
+            prog_4.s:4      *ABS*:0000000000006120 LATE
+            prog_4.s:5      *ABS*:0000000000006040 TRISB
+            prog_4.s:6      *ABS*:0000000000006050 PORTB
+            prog_4.s:7      *ABS*:0000000000006060 LATB
+            prog_4.s:15     .text:0000000000000000 main
+            prog_4.s:53     .text:0000000000000070 while
+
+NO UNDEFINED SYMBOLS

@@ -1,0 +1,13 @@
+GAS LISTING prog_b.s 			page 1
+
+
+DEFINED SYMBOLS
+            prog_b.s:16     *ABS*:0000000000000001 INKEY
+            prog_b.s:17     *ABS*:0000000000000003 PUT_CHAR
+            prog_b.s:27     .text:0000000000000000 main
+            prog_b.s:30     .text:0000000000000000 do
+            prog_b.s:35     .text:000000000000000c if
+            prog_b.s:40     .text:000000000000002c else
+            prog_b.s:44     .text:0000000000000038 while
+
+NO UNDEFINED SYMBOLS
